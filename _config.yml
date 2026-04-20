@@ -62,3 +62,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+
+include:
+  - assets/notebooks
