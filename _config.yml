@@ -5,9 +5,8 @@ title             : "Grégoire Pelletier"
 title_separator   : "-"
 name              : &name "Grégoire Pelletier"
 description       : &description "Portfolio académique de Grégoire Pelletier - Étudiant en M2 Data Science & IA, spécialisé en interprétabilité mécanistique."
-url               : "https://GregoirePelletier.github.io" 
-baseurl           : "" 
-repository        : "GregoirePelletier/GregoirePelletier.github.io"
+url: "https://gregoirepelletier.github.io" 
+repository: "gregoirepelletier/gregoirepelletier.github.io"
 
 # Site Author
 author:
