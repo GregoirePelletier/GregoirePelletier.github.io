@@ -11,4 +11,4 @@ As part of my research internship at EDF R&D, I developed a resource-efficient M
 * Tracking of Fraction of Variance Explained (FVE) to measure reconstruction fidelity.
 * Identification of BPE tokenization bottlenecks and routing interference during inference.
 
-[View the complete Jupyter Notebook code here](https://nbviewer.org/github/GregoirePelletier/GregoirePelletier.github.io/blob/master/assets/notebooks/POC_Matryoshka_SAE_French.ipynb)
+[View the complete Jupyter Notebook code here](https://github/GregoirePelletier/GregoirePelletier.github.io/blob/master/assets/notebooks/POC_Matryoshka_SAE_French.ipynb)
