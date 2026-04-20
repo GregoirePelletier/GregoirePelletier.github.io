@@ -49,19 +49,7 @@ analytics:
   provider                : "false" 
 
 # Collections Settings
-collections:
-  publications:
-    output: true
-    permalink: /publications/:path/
-  talks:
-    output: true
-    permalink: /talks/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
   portfolio:
     output: true
     permalink: /portfolio/:path/
 
-include:
-  - assets/notebooks
