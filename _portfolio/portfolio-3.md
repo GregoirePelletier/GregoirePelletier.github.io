@@ -1,6 +1,6 @@
 ---
 title: "Mechanistic Interpretability via SAEs for French Technical Corpora"
-excerpt: "A Proof of Concept (PoC) implementing a 'Frozen Core' Matryoshka Sparse Autoencoder to extract causal features from LLMs on scarce French data.<br/><img src='/images/500x300.png'>"
+excerpt: "A Proof of Concept (PoC) implementing a 'Frozen Core' Matryoshka Sparse Autoencoder to extract causal features from LLMs on scarce French data."
 collection: portfolio
 ---
 
