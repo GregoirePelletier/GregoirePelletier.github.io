@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "name": "Grégoire",
+    "familyname": "Pelletier",
+    "email": "gregoire.pelletier80@gmail.com",
+    "github": "GregoirePelletier",
+    "linkedin": "gregoire-pelletier1",
+    "homepage": "gregoirepelletier.github.io"
+  },
+  "sections": {
+    "fr": [
+      {
+        "key": "axes",
+        "title": "Axes de recherche",
+        "type": "bullets",
+        "items": [
+          "Interprétabilité mécaniste des modèles de langage",
+          "Architectures neuronales pour données séquentielles : Transformers et State Space Models (Mamba), texte et séries temporelles",
+          "Modèles locaux et embarqués : small language models, déploiement sur ressources limitées, écosystème open source"
+        ]
+      },
+      {
+        "key": "exp",
+        "title": "Expérience de recherche",
+        "type": "entries",
+        "items": [
+          {
+            "years": "Mars 2026 – auj.",
+            "title": "Stagiaire chercheur en apprentissage automatique",
+            "org": "EDF R&D (SEQUOIA – E7S)",
+            "loc": "Saclay",
+            "bullets": [
+              "Décomposition parcimonieuse (Sparse Autoencoders) de représentations denses de texte sur données industrielles réelles",
+              "Structure des espaces latents : superposition, alignement des directions apprises avec des concepts",
+              "Pipelines efficaces en données, sous forte contrainte de volume et de spécificité du domaine"
+            ]
+          },
+          {
+            "years": "Fév. – Juil. 2025",
+            "title": "Ingénieur en apprentissage automatique",
+            "org": "Paris Digital Lab",
+            "loc": "La Défense",
+            "bullets": [
+              "Systèmes à base de LLM interfacés avec des API structurées (SNCF)",
+              "Système de recherche multimodal (RAG) avec compréhension visuelle de documents ; extraction de connaissances par LLM"
+            ]
+          },
+          {
+            "years": "Juin – Nov. 2024",
+            "title": "Stagiaire en apprentissage automatique",
+            "org": "Emotors (Stellantis)",
+            "loc": "Carrières-sous-Poissy",
+            "bullets": [
+              "Estimateur thermique de machines électriques par réseaux récurrents (RNN, PyTorch)",
+              "Modélisation physique par réseaux de neurones (TNN) sous contraintes d'embarquabilité"
+            ]
+          },
+          {
+            "years": "Mai – Juil. 2023",
+            "title": "Stagiaire en recherche statistique",
+            "org": "ENS Paris-Saclay (Centre Borelli)",
+            "loc": "Gif-sur-Yvette",
+            "bullets": [
+              "Modélisation de textures par champs gaussiens et réseaux de neurones"
+            ]
+          },
+          {
+            "years": "Fév. – Juin 2023",
+            "title": "Travaux de recherche encadrés",
+            "org": "Laboratoire de Mathématiques d'Orsay",
+            "loc": "Orsay",
+            "bullets": [
+              "Graphes aléatoires et détection de communautés via la matrice de Hashimoto"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "edu",
+        "title": "Formation",
+        "type": "entries",
+        "items": [
+          {
+            "years": "2022 – 2026",
+            "title": "Magistère de Mathématiques & Master Mathématiques et Intelligence Artificielle",
+            "org": "Université Paris-Saclay",
+            "loc": "Orsay",
+            "bullets": [
+              "Optimisation, apprentissage profond et statistique, apprentissage par renforcement, séquentiel et en ligne, probabilités, théorie de la mesure"
+            ]
+          },
+          {
+            "years": "2019 – 2022",
+            "title": "CPGE MP (mathématiques et physique)",
+            "org": "Lycée Louis-le-Grand",
+            "loc": "Paris",
+            "bullets": []
+          }
+        ]
+      },
+      {
+        "key": "skills",
+        "title": "Compétences",
+        "type": "labeled",
+        "items": [
+          {
+            "label": "Programmation",
+            "value": "Python, R, OCaml, SQL, LaTeX, Spark"
+          },
+          {
+            "label": "Apprentissage",
+            "value": "PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face"
+          },
+          {
+            "label": "Langues",
+            "value": "Français (natif), Anglais (C1 – Linguaskill), Allemand"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "axes",
+        "title": "Research Interests",
+        "type": "bullets",
+        "items": [
+          "Mechanistic interpretability of language models",
+          "Neural architectures for sequential data: Transformers and State Space Models (Mamba), text and time series",
+          "Local and embeddable models: small language models, deployment under limited resources, open-source ecosystem"
+        ]
+      },
+      {
+        "key": "exp",
+        "title": "Research & Professional Experience",
+        "type": "entries",
+        "items": [
+          {
+            "years": "Mar 2026 – now",
+            "title": "Machine Learning Research Intern",
+            "org": "EDF R&D (SEQUOIA – E7S)",
+            "loc": "Saclay",
+            "bullets": [
+              "Sparse Autoencoders for interpreting dense text embeddings on real industrial datasets",
+              "Latent space structure: superposition, alignment of learned directions with semantic concepts",
+              "Data-efficient interpretability pipelines under strong domain-data constraints"
+            ]
+          },
+          {
+            "years": "Feb – Jul 2025",
+            "title": "Machine Learning Engineer",
+            "org": "Paris Digital Lab",
+            "loc": "La Défense",
+            "bullets": [
+              "LLM-based systems interfacing with structured APIs (SNCF)",
+              "Multimodal retrieval system (RAG) with visual document understanding; LLM-based knowledge extraction"
+            ]
+          },
+          {
+            "years": "Jun – Nov 2024",
+            "title": "Machine Learning Intern",
+            "org": "Emotors (Stellantis)",
+            "loc": "Carrières-sous-Poissy",
+            "bullets": [
+              "Thermal estimator for electric machines using recurrent neural networks (RNN, PyTorch)",
+              "Physics-informed neural network modeling (Thermal Neural Networks) under embeddability constraints"
+            ]
+          },
+          {
+            "years": "May – Jul 2023",
+            "title": "Statistical Research Intern",
+            "org": "ENS Paris-Saclay (Centre Borelli)",
+            "loc": "Gif-sur-Yvette",
+            "bullets": [
+              "Texture modeling with Gaussian fields and neural networks"
+            ]
+          },
+          {
+            "years": "Feb – Jun 2023",
+            "title": "Supervised Research",
+            "org": "Laboratoire de Mathématiques d'Orsay",
+            "loc": "Orsay",
+            "bullets": [
+              "Random graphs and community detection via the Hashimoto matrix"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "edu",
+        "title": "Education",
+        "type": "entries",
+        "items": [
+          {
+            "years": "2022 – 2026",
+            "title": "Magistère of Mathematics & Master's in Mathematics and Artificial Intelligence",
+            "org": "Université Paris-Saclay",
+            "loc": "Orsay",
+            "bullets": [
+              "Optimization, deep and statistical learning, reinforcement learning, sequential/online learning, probability, measure theory"
+            ]
+          },
+          {
+            "years": "2019 – 2022",
+            "title": "Classe Préparatoire (Mathematics and Physics)",
+            "org": "Lycée Louis-le-Grand",
+            "loc": "Paris",
+            "bullets": []
+          }
+        ]
+      },
+      {
+        "key": "skills",
+        "title": "Skills",
+        "type": "labeled",
+        "items": [
+          {
+            "label": "Programming",
+            "value": "Python, R, OCaml, SQL, LaTeX, Spark"
+          },
+          {
+            "label": "Machine Learning",
+            "value": "PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face"
+          },
+          {
+            "label": "Languages",
+            "value": "French (native), English (C1 – Linguaskill), German"
+          }
+        ]
+      }
+    ]
+  },
+  "site": {
+    "publications": [],
+    "portfolio": [],
+    "writings": []
+  }
+}

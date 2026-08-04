@@ -1,152 +1,130 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Grégoire Pelletier",
+    "label": "Mathematics and AI — Interpretability, Representation Learning, Deep Learning",
+    "email": "gregoire.pelletier80@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
+    "website": "https://gregoirepelletier.github.io",
+    "location": {},
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "GregoirePelletier",
+        "url": "https://github.com/GregoirePelletier"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gregoire-pelletier1",
+        "url": "https://linkedin.com/in/gregoire-pelletier1"
       }
     ]
   },
-  "work": [],
+  "researchInterests": [
+    "Mechanistic interpretability of language models",
+    "Neural architectures for sequential data: Transformers and State Space Models (Mamba), text and time series",
+    "Local and embeddable models: small language models, deployment under limited resources, open-source ecosystem"
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Université Paris-Saclay",
+      "area": "Magistère of Mathematics & Master's in Mathematics and Artificial Intelligence",
+      "startDate": "2022",
+      "endDate": "2026",
+      "courses": [
+        "Optimization, deep and statistical learning, reinforcement learning, sequential/online learning, probability, measure theory"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Lycée Louis-le-Grand",
+      "area": "Classe Préparatoire (Mathematics and Physics)",
+      "startDate": "2019",
+      "endDate": "2022",
       "courses": []
     }
   ],
-  "skills": [],
+  "work": [
+    {
+      "position": "Machine Learning Research Intern",
+      "company": "EDF R&D (SEQUOIA – E7S)",
+      "startDate": "Mar 2026",
+      "endDate": "now",
+      "highlights": [
+        "Sparse Autoencoders for interpreting dense text embeddings on real industrial datasets",
+        "Latent space structure: superposition, alignment of learned directions with semantic concepts",
+        "Data-efficient interpretability pipelines under strong domain-data constraints"
+      ]
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "company": "Paris Digital Lab",
+      "startDate": "Feb",
+      "endDate": "Jul 2025",
+      "highlights": [
+        "LLM-based systems interfacing with structured APIs (SNCF)",
+        "Multimodal retrieval system (RAG) with visual document understanding; LLM-based knowledge extraction"
+      ]
+    },
+    {
+      "position": "Machine Learning Intern",
+      "company": "Emotors (Stellantis)",
+      "startDate": "Jun",
+      "endDate": "Nov 2024",
+      "highlights": [
+        "Thermal estimator for electric machines using recurrent neural networks (RNN, PyTorch)",
+        "Physics-informed neural network modeling (Thermal Neural Networks) under embeddability constraints"
+      ]
+    },
+    {
+      "position": "Statistical Research Intern",
+      "company": "ENS Paris-Saclay (Centre Borelli)",
+      "startDate": "May",
+      "endDate": "Jul 2023",
+      "highlights": [
+        "Texture modeling with Gaussian fields and neural networks"
+      ]
+    },
+    {
+      "position": "Supervised Research",
+      "company": "Laboratoire de Mathématiques d'Orsay",
+      "startDate": "Feb",
+      "endDate": "Jun 2023",
+      "highlights": [
+        "Random graphs and community detection via the Hashimoto matrix"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "R",
+        "OCaml",
+        "SQL",
+        "LaTeX",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Pandas",
+        "Hugging Face"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "French (native)",
+        "English (C1 – Linguaskill)",
+        "German"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "portfolio": []
 }

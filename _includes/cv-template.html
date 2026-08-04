@@ -68,6 +68,18 @@
   </div>
   {% endif %}
   
+  {% if cv.researchInterests.size > 0 %}
+  <!-- Research Interests -->
+  <div class="cv-section">
+    <h2>Research Interests</h2>
+    <ul class="cv-list">
+      {% for item in cv.researchInterests %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.education.size > 0 %}
   <!-- Education -->
   <div class="cv-section">
