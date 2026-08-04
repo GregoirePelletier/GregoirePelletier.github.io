@@ -3,7 +3,12 @@ layout: archive
 title: "About Me"
 permalink: /
 author_profile: true
+published: false
 ---
+<!-- Superseded by the root index.md (same permalink "/", near-identical content, slightly newer).
+     Kept unpublished rather than deleted to avoid a permalink collision now that _pages/ is
+     actually being built (see include: ["_pages"] in _config.yml). -->
+
 
 I am a Master’s student in **Mathematics & Artificial Intelligence**, currently a Research Intern at **EDF R&D**. My work focuses on **Mechanistic Interpretability**, specifically using **Sparse Autoencoders (SAE)** to disentangle dense embeddings into monosemantic features.
 

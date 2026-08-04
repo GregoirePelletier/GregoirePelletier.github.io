@@ -23,4 +23,4 @@ Before focusing on research, I developed several MVPs in the industry:
 
 **I am currently looking for PhD opportunities starting Fall 2026** in the fields of Interpretability, NLP, or Robust AI.
 
-[Download my CV](files/CV_Pelletier.pdf){: .btn .btn--info}
+[Download my CV](files/cv.pdf){: .btn .btn--info}

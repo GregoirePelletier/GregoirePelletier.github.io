@@ -5,8 +5,12 @@ title             : "Grégoire Pelletier"
 title_separator   : "-"
 name              : &name "Grégoire Pelletier"
 description       : &description "Portfolio académique de Grégoire Pelletier - Étudiant en M2 Data Science & IA, spécialisé en interprétabilité mécanistique."
-url: "https://gregoirepelletier.github.io" 
+url: "https://gregoirepelletier.github.io"
 repository: "gregoirepelletier/gregoirepelletier.github.io"
+
+# Jekyll excludes underscore-prefixed directories by default; _pages/*.md
+# (cv.md, about.md, markdown.md, ...) needs this to actually be built.
+include: ["_pages"]
 
 # Site Author
 author:
@@ -49,6 +53,13 @@ analytics:
   provider                : "false" 
 
 # Collections Settings
+collections:
+  talks:
+    output: true
+  teaching:
+    output: true
+  publications:
+    output: true
   portfolio:
     output: true
     permalink: /portfolio/:path/
